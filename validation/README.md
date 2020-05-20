@@ -1,11 +1,11 @@
 # cuxs/validation
 
-[![build status](https://git.qasico.com/cuxs/validation/badges/master/build.svg)](https://git.qasico.com/cuxs/validation/commits/master) [![coverage report](https://git.qasico.com/cuxs/validation/badges/master/coverage.svg)](https://git.qasico.com/cuxs/validation/commits/master)
+[![build status](https://github.com/naufaldinta13/cuxs/validation/badges/master/build.svg)](https://github.com/naufaldinta13/cuxs/validation/commits/master) [![coverage report](https://github.com/naufaldinta13/cuxs/validation/badges/master/coverage.svg)](https://github.com/naufaldinta13/cuxs/validation/commits/master)
 
 
 ## Installation
 ```
-    go get git.qasico.com/cuxs/validation
+    go get github.com/naufaldinta13/cuxs/validation
 ```
 
 ## Field Validation
@@ -14,7 +14,7 @@
     
     import (
         "fmt"
-        "git.qasico.com/cuxs/validation"
+        "github.com/naufaldinta13/cuxs/validation"
     )
     
     func main() {
@@ -33,7 +33,7 @@
     
     import (
         "fmt"
-        "git.qasico.com/cuxs/validation"
+        "github.com/naufaldinta13/cuxs/validation"
     )
     
     // User contains user information
@@ -90,7 +90,7 @@
     
     import (
         "fmt"
-        "git.qasico.com/cuxs/validation"
+        "github.com/naufaldinta13/cuxs/validation"
     )
     
     // User contains user information
@@ -171,7 +171,7 @@
     
     import (
         "fmt"
-        "git.qasico.com/cuxs/validation"
+        "github.com/naufaldinta13/cuxs/validation"
     )
     
     func main() {

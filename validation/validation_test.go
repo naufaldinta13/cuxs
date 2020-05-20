@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"git.qasico.com/cuxs/validation"
+	"github.com/naufaldinta13/cuxs/validation"
 	"github.com/stretchr/testify/assert"
 )
 

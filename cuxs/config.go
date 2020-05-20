@@ -8,7 +8,7 @@ import (
 	"io"
 	"os"
 
-	"git.qasico.com/cuxs/env"
+	"github.com/naufaldinta13/cuxs/env"
 )
 
 var (

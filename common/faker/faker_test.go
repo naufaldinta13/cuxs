@@ -9,8 +9,8 @@ import (
 
 	"time"
 
-	"git.qasico.com/cuxs/common"
-	"git.qasico.com/cuxs/common/faker"
+	"github.com/naufaldinta13/cuxs/common"
+	"github.com/naufaldinta13/cuxs/common/faker"
 	"github.com/stretchr/testify/assert"
 )
 

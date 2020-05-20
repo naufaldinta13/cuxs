@@ -5,9 +5,9 @@
 package cuxs
 
 import (
-	"git.qasico.com/cuxs/cuxs/mw"
+	"github.com/naufaldinta13/cuxs/cuxs/mw"
 
-	"git.qasico.com/cuxs/common/log"
+	"github.com/naufaldinta13/cuxs/common/log"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )

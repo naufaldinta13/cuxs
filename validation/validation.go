@@ -6,7 +6,7 @@ import (
 
 	"time"
 
-	"git.qasico.com/cuxs/common"
+	"github.com/naufaldinta13/cuxs/common"
 )
 
 type (

@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"git.qasico.com/cuxs/common"
 	"github.com/jmcvetta/randutil"
+	"github.com/naufaldinta13/cuxs/common"
 )
 
 // Fill passed interface with random data based on the struct field type,

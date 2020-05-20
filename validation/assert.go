@@ -14,7 +14,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"git.qasico.com/cuxs/common"
+	"github.com/naufaldinta13/cuxs/common"
 )
 
 // IsNotEmpty returns true if value is not nill

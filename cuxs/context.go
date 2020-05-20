@@ -7,8 +7,8 @@ package cuxs
 import (
 	"net/http"
 
-	"git.qasico.com/cuxs/common"
-	"git.qasico.com/cuxs/orm"
+	"github.com/naufaldinta13/cuxs/common"
+	"github.com/naufaldinta13/cuxs/orm"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo"
 )

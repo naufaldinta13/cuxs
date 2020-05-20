@@ -11,7 +11,7 @@ import (
 	"log"
 	"time"
 
-	"git.qasico.com/cuxs/mailer"
+	"github.com/naufaldinta13/cuxs/mailer"
 )
 
 func Example() {

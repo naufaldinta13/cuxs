@@ -12,7 +12,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"git.qasico.com/cuxs/common/log"
+	"github.com/naufaldinta13/cuxs/common/log"
 	"github.com/labstack/echo"
 )
 

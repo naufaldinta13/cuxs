@@ -1,4 +1,4 @@
-package: git.qasico.com/cuxs/common
+package: github.com/naufaldinta13/cuxs/common
 import:
 - package: github.com/buger/jsonparser
 - package: github.com/labstack/echo

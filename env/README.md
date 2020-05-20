@@ -1,7 +1,7 @@
 # cuxs/env
 
-[![build status](https://git.qasico.com/cuxs/env/badges/master/build.svg)](https://git.qasico.com/cuxs/env/commits/master)
-[![coverage report](https://git.qasico.com/cuxs/env/badges/master/coverage.svg)](https://git.qasico.com/cuxs/env/commits/master)
+[![build status](https://github.com/naufaldinta13/cuxs/env/badges/master/build.svg)](https://github.com/naufaldinta13/cuxs/env/commits/master)
+[![coverage report](https://github.com/naufaldinta13/cuxs/env/badges/master/coverage.svg)](https://github.com/naufaldinta13/cuxs/env/commits/master)
 
 ## ENV
 
@@ -45,7 +45,7 @@ VISIBILITY=true
 ```go
 package main
 
-import "git.qasico.com/cuxs/env"
+import "github.com/naufaldinta13/cuxs/env"
 // import env from cuxs
 
 type config struct {

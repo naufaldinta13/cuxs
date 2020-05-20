@@ -1,6 +1,6 @@
 # cuxs/mailer
 
-[![build status](https://git.qasico.com/cuxs/mailer/badges/master/build.svg)](https://git.qasico.com/cuxs/mailer/commits/master) [![coverage report](https://git.qasico.com/cuxs/mailer/badges/master/coverage.svg)](https://git.qasico.com/cuxs/mailer/commits/master)
+[![build status](https://github.com/naufaldinta13/cuxs/mailer/badges/master/build.svg)](https://github.com/naufaldinta13/cuxs/mailer/commits/master) [![coverage report](https://github.com/naufaldinta13/cuxs/mailer/badges/master/coverage.svg)](https://github.com/naufaldinta13/cuxs/mailer/commits/master)
 
 cuxs/mailer is a simple and efficient package to send emails.
 it can only send emails using an SMTP server. But the API is flexible and it
@@ -17,7 +17,7 @@ API, etc.
 
 ## Installation
 ```
-    go get git.qasico.com/cuxs/mailer
+    go get github.com/naufaldinta13/cuxs/mailer
 ```
 
 and set environment variable for
@@ -39,7 +39,7 @@ SMTP_SENDER_NAME=
     package main
     
     import (
-        "git.qasico.com/cuxs/mailer"
+        "github.com/naufaldinta13/cuxs/mailer"
     )
     
     func main() {
@@ -65,7 +65,7 @@ To set multiple receipient is easy, just type many receipient email
     package main
         
         import (
-            "git.qasico.com/cuxs/mailer"
+            "github.com/naufaldinta13/cuxs/mailer"
         )
         
         func main() {
@@ -81,7 +81,7 @@ When you want to set name of receipient, you need to formating it first using
      package main
          
          import (
-             "git.qasico.com/cuxs/mailer"
+             "github.com/naufaldinta13/cuxs/mailer"
          )
          
          func main() {
@@ -108,7 +108,7 @@ dijadikan sebagai email body pada messages.
     package main
     
     import (
-        "git.qasico.com/cuxs/mailer"
+        "github.com/naufaldinta13/cuxs/mailer"
     )
     
     func main() {

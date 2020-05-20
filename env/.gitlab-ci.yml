@@ -2,9 +2,9 @@ image: qasico/go:latest
 
 before_script:
   - go version
-  - mkdir $GOPATH/src/git.qasico.com
-  - mkdir $GOPATH/src/git.qasico.com/cuxs
-  - WD="$GOPATH/src/git.qasico.com/cuxs/env"
+  - mkdir $GOPATH/src/github.com/naufaldinta13
+  - mkdir $GOPATH/src/github.com/naufaldinta13/cuxs
+  - WD="$GOPATH/src/github.com/naufaldinta13/cuxs/env"
 
 test:
   script:

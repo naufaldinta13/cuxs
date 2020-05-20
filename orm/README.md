@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-    go get git.qasico.com/cuxs/orm
+    go get github.com/naufaldinta13/cuxs/orm
 ```
 
 ## Set Up Database

@@ -9,9 +9,9 @@ import (
 	"runtime"
 	"testing"
 
-	"git.qasico.com/cuxs/common/log"
 	"github.com/buger/jsonparser"
 	"github.com/labstack/echo"
+	"github.com/naufaldinta13/cuxs/common/log"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"git.qasico.com/cuxs/common/log"
-	"git.qasico.com/cuxs/orm"
+	"github.com/naufaldinta13/cuxs/common/log"
+	"github.com/naufaldinta13/cuxs/orm"
 	// mysql driver
 	_ "github.com/go-sql-driver/mysql"
 )

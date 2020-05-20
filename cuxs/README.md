@@ -1,6 +1,6 @@
 # cuxs/cuxs
 
-[![build status](https://git.qasico.com/cuxs/cuxs/badges/master/build.svg)](https://git.qasico.com/cuxs/cuxs/commits/master) [![coverage report](https://git.qasico.com/cuxs/cuxs/badges/master/coverage.svg)](https://git.qasico.com/cuxs/cuxs/commits/master)
+[![build status](https://github.com/naufaldinta13/cuxs/cuxs/badges/master/build.svg)](https://github.com/naufaldinta13/cuxs/cuxs/commits/master) [![coverage report](https://github.com/naufaldinta13/cuxs/cuxs/badges/master/coverage.svg)](https://github.com/naufaldinta13/cuxs/cuxs/commits/master)
 
 ## Feature Overview
 - [ ] Auto TLS with letsencrypt
@@ -23,7 +23,7 @@
 
 ## Installation
 ```bash
-- go get git.qasico.com/cuxs/cuxs
+- go get github.com/naufaldinta13/cuxs/cuxs
 ```
 
 ## Package mw

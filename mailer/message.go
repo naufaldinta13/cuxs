@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"git.qasico.com/cuxs/common/log"
+	"github.com/naufaldinta13/cuxs/common/log"
 )
 
 // Message represents an email.

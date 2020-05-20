@@ -1,6 +1,6 @@
 # cuxs/common
 
-[![build status](https://git.qasico.com/cuxs/common/badges/master/build.svg)](https://git.qasico.com/cuxs/common/commits/master) [![coverage report](https://git.qasico.com/cuxs/common/badges/master/coverage.svg)](https://git.qasico.com/cuxs/common/commits/master)
+[![build status](https://github.com/naufaldinta13/cuxs/common/badges/master/build.svg)](https://github.com/naufaldinta13/cuxs/common/commits/master) [![coverage report](https://github.com/naufaldinta13/cuxs/common/badges/master/coverage.svg)](https://github.com/naufaldinta13/cuxs/common/commits/master)
 
 ## Feature Overview
 - [X] Logger using logrus
@@ -20,7 +20,7 @@
 
 ## Installation
 ```bash
-- go get git.qasico.com/cuxs/common
+- go get github.com/naufaldinta13/cuxs/common
 ```
 
 ## Func common

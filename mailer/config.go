@@ -5,7 +5,7 @@
 package mailer
 
 import (
-	"git.qasico.com/cuxs/env"
+	"github.com/naufaldinta13/cuxs/env"
 )
 
 // Config represents all configurable mailer data smtp credentials

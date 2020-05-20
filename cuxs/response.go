@@ -7,8 +7,8 @@ package cuxs
 import (
 	"net/http"
 
-	"git.qasico.com/cuxs/orm"
-	"git.qasico.com/cuxs/validation"
+	"github.com/naufaldinta13/cuxs/orm"
+	"github.com/naufaldinta13/cuxs/validation"
 	"github.com/labstack/echo"
 )
 

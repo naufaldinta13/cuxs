@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"git.qasico.com/cuxs/common"
+	"github.com/naufaldinta13/cuxs/common"
 )
 
 // Output format response when running validations

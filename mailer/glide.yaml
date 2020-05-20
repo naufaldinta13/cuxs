@@ -1,6 +1,6 @@
-package: git.qasico.com/cuxs/mailer
+package: github.com/naufaldinta13/cuxs/mailer
 import:
-- package: git.qasico.com/cuxs/env
+- package: github.com/naufaldinta13/cuxs/env
 - package: gopkg.in/alexcesaro/quotedprintable.v3
 testImport:
 - package: github.com/stretchr/testify

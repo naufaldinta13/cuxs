@@ -1,12 +1,12 @@
-package: git.qasico.com/cuxs/cuxs
+package: github.com/naufaldinta13/cuxs/cuxs
 import:
-- package: git.qasico.com/cuxs/common
+- package: github.com/naufaldinta13/cuxs/common
   subpackages:
   - log
   - tester
-- package: git.qasico.com/cuxs/orm
-- package: git.qasico.com/cuxs/env
-- package: git.qasico.com/cuxs/validation
+- package: github.com/naufaldinta13/cuxs/orm
+- package: github.com/naufaldinta13/cuxs/env
+- package: github.com/naufaldinta13/cuxs/validation
 - package: github.com/dgrijalva/jwt-go
   version: ~3.0.0
 - package: github.com/go-sql-driver/mysql

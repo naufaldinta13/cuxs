@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"git.qasico.com/cuxs/validation"
+	"github.com/naufaldinta13/cuxs/validation"
 	"github.com/labstack/echo"
 )
 
